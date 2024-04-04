@@ -14,4 +14,4 @@ Antes de começar, certifique-se de ter instalado o Node.js e o npm na sua máqu
    git clone https://github.com/seu-usuario/pass-in-web.git
   
 
-![Tela inicial do Pass In Web](assets/print-project.png)
+![Tela inicial do Pass In Web](https://github.com/CarlosBaiao/pass-in-web/blob/main/src/assets/print-project.png)
